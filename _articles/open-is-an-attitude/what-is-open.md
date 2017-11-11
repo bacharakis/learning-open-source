@@ -108,7 +108,7 @@ Watch Kristie describe how working open, launched an her project's success.
  Working open can be described as having:
 
 - **participation**. rocket fuel for smart collaboration.
-- **agility**. speed. flexibility. getting shit done.
+- **agility**. speed. flexibility. getting stuff done.
 - **momentum**. communities want to push boulders that are already rolling.
 - **testing and rapid prototyping**. iterating and refining as we go.
 - **leverage**. getting greater bang from limited resources. punching above our weight.[[4]](#how-to-work-open)
