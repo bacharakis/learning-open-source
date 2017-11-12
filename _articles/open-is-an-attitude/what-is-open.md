@@ -108,7 +108,7 @@ Watch Kristie describe how working open, launched an her project's success.
  Working open can be described as having:
 
 - **participation**. rocket fuel for smart collaboration.
-- **agility**. speed. flexibility. getting shit done.
+- **agility**. speed. flexibility. getting stuff done.
 - **momentum**. communities want to push boulders that are already rolling.
 - **testing and rapid prototyping**. iterating and refining as we go.
 - **leverage**. getting greater bang from limited resources. punching above our weight.[[4]](#how-to-work-open)
@@ -134,7 +134,7 @@ Creating appearances of being open to engage people for free labour, fake consul
 *How would you recognize exploitation of open?  Can you think of any examples?*
 
 **>> Open Washing**
-[Open Washing](http://openwashing.org/) is a term given to a specific type of exploitation whereby a product or resource is marketed as being 'open', but where no evidence exists that this is true.  
+[Open Washing](http://openwashing.org/) is a term given to a specific type of exploitation whereby a product or resource is marketed as being 'open', but without evidence that this is entirely true.  
 
 >Openwashing: to spin a product or company as open, although it is not. Derived from 'greenwashing.' [Michelle Thorn](http://michellethorne.cc/2009/03/openwashing/)
 
