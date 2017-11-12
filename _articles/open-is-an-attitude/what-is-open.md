@@ -38,7 +38,7 @@ Open access refers to the practice of **making peer-reviewed scholarly research 
 
 >..if a work is open, then the right of use is assumed. The fact that definitions of openness must explicitly spell out restricted uses makes it clear that if a work is open, **then any and all of the things that it may be possible to do with it are allowed, unless explicitly disallowed**.
 
-Consider your assumptions about use, and what explicit restrictions you have seen in licencsed software or content.
+Consider your assumptions about use, and what explicit restrictions you have seen in licensed software or content.
 
 
 ### Open is an Adjective

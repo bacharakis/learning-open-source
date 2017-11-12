@@ -18,13 +18,14 @@ We abide by the [Mozilla Community Participation Guidelines](https://www.mozilla
 
 TODO: LINK & Add full names
 
-- [Heidi Ellis]()
-- [Don Mardi()
-- [Greg McVerry]()
-- Gail
 - [Birgit Penzenstadler]()
-- [Greg Hislop]()
+- [Nate Angell](https://twitter.com/xolotl)
 - [Clint LaLonde]()
+- [Don Mardi()
+- [Greg Hislop]()
+- [Greg McVerry]()
+- Gail from TOS(TODO: last name?)
+- [Heidi Ellis]()
 
 
 # License
