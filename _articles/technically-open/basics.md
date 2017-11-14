@@ -24,34 +24,33 @@ If you are not yet familiar, or comfortable with using command line tools, this 
 ### {{ site.assignment }} Command Line Basics
 
 1. Complete one of the following:
-	* [Learn The Command Line](https://ryanstutorials.net/linuxtutorial/)  - for those with Linux of Macs who want to learn command line on their own machines.
-	* Code Acadamy's ['Your First Command Line'](https://www.codecademy.com/courses/learn-the-command-line/lessons/navigation/exercises/your-first-command?action=lesson_resume).
-
+    * [Learn The Command Line](https://ryanstutorials.net/linuxtutorial/)  - for those with Linux of Macs who want to learn command line on their own machines.
+    * Code Acadamy's ['Your First Command Line'](https://www.codecademy.com/courses/learn-the-command-line/lessons/navigation/exercises/your-first-command?action=lesson_resume).
 
 ### Communication Tools & Trends
 
-Historically open source projects lean on tools like [IRC](https://en.wikipedia.org/wiki/Internet_Relay_Chat) and mailing lists, [Mediawiki](https://www.mediawiki.org/wiki/Code_of_Conduct#Appealing_a_resolution) and forums like [Discourse](https://discourse.mozilla-community.org/)  (which is open source) for communication and tracking documentation.  
+Historically open source projects lean on tools like [IRC](https://en.wikipedia.org/wiki/Internet_Relay_Chat) and mailing lists, [Mediawiki](https://www.mediawiki.org/wiki/Code_of_Conduct#Appealing_a_resolution) and forums like [Discourse](https://discourse.mozilla-community.org/) (which is open source) for communication and tracking documentation.
 
-Additionally communities are starting to experiment with other communication norms.  More often we are seeing tools like [Rocketchat](https://rocket.chat/), [Mattermost](https://about.mattermost.com/), [Discord](https://discordapp.com/) and [Gitter](https://gitter.im/) used as collaborative way of sharing workflows, with itegrations for many of the tools those communities use.
+Additionally, communities are starting to experiment with other communication norms.  More often we are seeing tools like [Rocketchat](https://rocket.chat/), [Mattermost](https://about.mattermost.com/), [Discord](https://discordapp.com/) and [Gitter](https://gitter.im/) used as collaborative way of sharing workflows, with integrations for tools used within those communities.
 
-**There is some tension within the open ecosystem when tools that are not themselves open source are chosen**, which if you completed the first module you'll recognize that tension being tied to the Internet Freedom movement and accessibility. IRC for example is considered a non-accessible tool for many non-technical contributors.
+**There is some tension within the open ecosystem when tools that are not themselves open source are chosen**, which if you completed the first module you'll recognize that tension being tied to the Internet Freedom movement and accessibility. IRC, for example, is considered a non-accessible tool for many non-technical contributors.
 
-Often communication solutions are no longer tied to a single platform, and instead a web of tools are tied together via 'bridges' between tools like [Sameroom](https://sameroom.io/blog/connecting-a-channel-in-slack-to-a-channel-irc/).  Still more projects limit their discussions to issue trackers.
+Often communication solutions are no longer tied to a single platform. Instead, a web of tools are tied together via 'bridges' like [Sameroom](https://sameroom.io/blog/connecting-a-channel-in-slack-to-a-channel-irc/). While, other projects limit their discussions to issue trackers.
 
-### TODO norms of open source comms
+### TODO norms of open source comms and add IRC tutorial link
 
 ### {{ site.assignment }} Communication
 
 1. Complete this [IRC tutorial](), and connect to one of these community IRC channels on [Freenode](https://freenode.net/) to say hello.
- * #openstack101
- * #wikipedia
- * #drupal
- * #umbuntu
-2. For any project you've interacted with in earlier modules, or any 3 open projects selected from [Github's list of good projects for beginners](https://github.com/trending) answer the following questions:
- * Where do people talk?
- * How active are the communication channels where people talk?
- * How many channels are available within a a project (are there channels for focused work, or new contributors?)
- * How does the code of conduct apply to communication channels?
-3.  Write a blog post on one of the following topics:
-	*  My experience communicating with open source.
-	*  Why, or why not open communities like [Creative Commons](https://slack-signup.creativecommons.org/) and [Open Data](http://slack.opendatacommunity.io/) should use a closed-source tool like Slack.
+   * #openstack101
+   * #wikipedia
+   * #drupal
+   * #ubuntu
+2. For any project you've interacted with in earlier modules, or any 3 open projects selected from [GitHub's list of good projects for beginners](https://github.com/trending) answer the following questions:
+   * Where do people talk?
+   * How active are the communication channels where people talk?
+   * How many channels are available within a a project (are there channels for focused work? or new contributors?)
+   * How does the code of conduct apply to communication channels?
+3. Write a blog post on one of the following topics:
+   * My experience communicating with open source projects.
+   * Why or why not open communities like [Creative Commons](https://slack-signup.creativecommons.org/) and [Open Data](http://slack.opendatacommunity.io/) should use a closed-source tool like Slack.
