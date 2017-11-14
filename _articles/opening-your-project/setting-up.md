@@ -4,7 +4,7 @@ title: "Documenting for Success"
 module: '4.3'
 date: 2016-10-06 14:05:56
 time: "20 min"
-following: _articles/opening-your-project/designing-for-participation.md
+following: _articles/opening-your-project/designing-open-tasks.md
 summary: "This module will help new maintainers with the basics of project documentation setup."
 prereq: ""
 format: >
