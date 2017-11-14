@@ -4,7 +4,7 @@ title: FOSS Technical Basics
 module: '3.1'
 date: 2016-10-06T14:05:56.000Z
 time: 90 mins
-following: _articles/technically_open/github.md
+following: _articles/technically-open/github.md
 summary: This section will provide learners with basic knowledge of technical and communication tools most often used in open source projects.
 prereq: Have completed previous 3 modules
 format: '*   Complete readings and activities on this topic.'
