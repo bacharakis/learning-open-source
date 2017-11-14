@@ -34,4 +34,4 @@ There are three ways you can contribute to our project!
 * Write a blog post and tweet your experiences.
 * Update this curriculum using links provided on each page.
 
-![tech]({{site.baseurl}}/img/contribute.png)
+  ![tech]({{site.baseurl}}/img/contribute.png)
