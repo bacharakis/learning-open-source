@@ -4,7 +4,6 @@ title: Community Health
 module: '2.3'
 date: 2016-10-06T14:05:56.000Z
 time: 1+ hours
-following: _articles/stepping-into-opensource/licensing.md
 summary: >-
   This section will explore community health as both a criteria for particpation in open source and a responsiblity.
 prereq: Have read previous 2 sections of this module.
