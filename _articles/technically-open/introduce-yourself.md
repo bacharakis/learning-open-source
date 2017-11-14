@@ -24,15 +24,14 @@ Read ['We Need Students for Open Source to Thrive'](https://medium.com/mozilla-o
 
 [Join our Gitter channel, and say hello!]()
 
-
 ### Contribute to our Project!
 
 There are three ways you can contribute to our project!
 
 * Add your name to our global community list by adding your name to [this file](), and submitting a pull request.
 (NOT LIVE YET)
-* Update the README.md or CONTRIBUTING.md to help others get involved.
-* Write a blog post, tweet your experiences.
+* Update the `README.md` or `CONTRIBUTING.md` to help others get involved.
+* Write a blog post and tweet your experiences.
 * Update this curriculum using links provided on each page.
 
 ![tech]({{site.baseurl}}/img/contribute.png)
