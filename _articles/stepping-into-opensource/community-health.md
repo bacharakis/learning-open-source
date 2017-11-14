@@ -35,7 +35,7 @@ We've talked a lot about 'open'. We've run through attributes that make a projec
 
 You might hear that Open Source is driven by a meritocracy governance model.  The assumption of meritocracy is that everyone starts in a similar place, and thus have the same opportunity.
 
-For reasons of gender-identity, socio-economic status, age, race, family-status, available time, access to technology and many other diversity dimensions -  meritocracy is in fact a myth.fdc
+For reasons of gender-identity, socio-economic status, age, race, family-status, available time, access to technology and many other diversity dimensions -  meritocracy is in fact a myth.
 
 > Much of this data reinforced what we know about the myth of meritocracy, and that despite its promise, meritocracy actually enables toxic, exclusionary norms that prevent development of resilient, diverse communities. - Emma Irwin, [Reflection — Inclusive Organizing for Open Source Communities](https://medium.com/mozilla-open-innovation/reflection-inclusive-organizing-for-open-source-communities-9c44f0b689c1)
 
