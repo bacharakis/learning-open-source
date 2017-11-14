@@ -10,4 +10,4 @@ contents:
 following:  _articles/stepping-into-opensource/evaluating-open-projects.md
 ---
 
-Stepping into an open source community can be intimidating! So many projects with so many moving parts it's hard to know where to begin! This module will provide students with tools and best practices for evaluating open source projects for contribution.
+Stepping into an open source community can be intimidating! There's so many projects with many moving parts, and it's hard to know where to begin! This module will provide students with tools and best practices for evaluating open source projects for contribution.
