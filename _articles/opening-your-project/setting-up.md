@@ -4,8 +4,8 @@ title: "Documenting for Success"
 module: '4.3'
 date: 2016-10-06 14:05:56
 time: "20 min"
-following: _articles/opening-your-project/designing-for-participation.md
-summary: "This module will help new maintainers with the basics of project documentation seutup."
+following: _articles/opening-your-project/designing-open-tasks.md
+summary: "This module will help new maintainers with the basics of project documentation setup."
 prereq: ""
 format: >
   * Read text and explore links
@@ -18,10 +18,11 @@ Photo CCO 1.0 [Dustin Lee](https://visualhunt.com/p/dustin-lee/)
 * TOC
 {:toc}
 
-This chapter will take you through practical steps for setting your project for participation.
+This chapter will take you through practical steps for setting up your project for participation.
 
 ### Project Documentation
-Documentation is one of the most important, yet least prioritized jobs in an open project.  It's also one of the most critical for contributor success.  If your environment builds are up to date - people will be successful sooner.  If they are out of date, people may leave your project before ever opening an issue - or contributing.  Project documentation should (minimally) consider:
+
+Documentation is one of the most important, yet least prioritized, jobs in an open project.  It's also one of the most critical for contributor success.  If your environment builds are up to date - people will be successful sooner.  If they are out of date, people may leave your project before ever opening an issue or contributing.  Project documentation should (minimally) consider:
 
 * Project description & goals
 * How to setup technical environments
@@ -41,24 +42,23 @@ A CONTRIBUTING.md file, in your open source repository or site, provides potenti
 
 This file is for:
 
-   * Project owners - creators and maintainers of the file
-   * Project contributors - users of the file who want to know items they're welcome to tackle, and tact they need in navigating the project/respecting those involved with the project
-   * Project consumers - users who want to build off the project to create their own project [1]
+* Project owners - creators and maintainers of the file
+* Project contributors - users of the file who want to know items they're welcome to tackle, and tact they need in navigating the project/respecting those involved with the project
+* Project consumers - users who want to build off the project to create their own project [1]
 
 **Code of Conduct**
 
 Ensure your project has a Code of Conduct, this means not only do you have a CoC, but that you understand, and can communicate how that code is enforced.
 
-
 ### {{ site.assignment }} Set-Up Your Project
 
 * [Read Best Practices for Maintainers](https://opensource.guide/best-practices/)
-* [Create a Wiki Page for]
+* [Create a Wiki Page for your project]
 * [Select a license](https://help.github.com/articles/licensing-a-repository/)
 * Create a [README.md](https://mozilla.github.io/open-leadership-training-series/articles/opening-your-project/write-a-great-project-readme/) for your project
-* Create a [CONTRIBUTING.md](http://mozillascience.github.io/working-open-workshop/contributing/) for your project.  
+* Create a [CONTRIBUTING.md](http://mozillascience.github.io/working-open-workshop/contributing/) for your project.
 * [Create a Code of Conduct](https://opensource.guide/code-of-conduct/) - or reference Mozilla's [Community Participation Guidelines](https://www.mozilla.org/en-US/about/governance/policies/participation/) in your CONTRIBUTING.md
 
 ## Attribution
+
 Mozilla Science Lab - Wrangling Web Contributions: How to Build a CONTRIBUTING.md
--

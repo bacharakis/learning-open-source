@@ -9,7 +9,7 @@ summary: >-
 prereq: |
   * Have completed previous chapters in this module
 format: |
-  * Read listen to podcast, watch video and read content on this topic
+  * Read or listen to podcast, watch video and read content on this topic
 ---
 
 * TOC
@@ -25,7 +25,7 @@ format: |
 
 ### {{ site.video }} The Mozilla Story: Making The World You Want
 
-Not that long ago, a single company(Microsoft) controlled the majority of software and hardware - that 'open' was something mostly associated with 'basement hackers' and that as a open source business model was considered laughable.   
+Not that long ago, a single company (Microsoft) controlled the majority of software and hardware, 'open' was something mostly associated with 'basement hackers', and an open source business model was considered laughable.
 
 ![marketshare]({{site.baseurl}}/img/marketshare.png)
 
@@ -38,20 +38,22 @@ Mozilla injected competition, innovation and opportunity by opening the source c
 * [Watch this video interview with Mozilla Chairwoman](https://techcrunch.com/2015/09/16/the-mozilla-story-making-the-world-you-want/) Mitchell Baker, and former Mozilla CEO Chris Lily as they revisit that time - and how it changed everything.
 
 ### Into the Future!
+
 Don Marti explains in his blog post ['Why Open Source Matters'](https://blog.zgp.org/misc/why-open-source-matters/) what he sees as the 3 movements of Open Source (explained with quotes), and insists that anyone "trying to sell you on joining “open source” is selling a different combination of these".
 
-
 #### Software development methodology
+
 > “In short, the effect on security of open source software is still a major debate in the security community, though a large number of prominent experts believe that it has great potential to be more secure.” -  [David A. Wheeler](https://www.dwheeler.com/secure-programs/Secure-Programs-HOWTO/open-source-security.html)
->  
+>
     Opportunity: Building software we can be proud of
     Fail: Software Quality
 
 #### Internet freedom campaign
+
 > “My free software will respect users or it will be bullshit” — [Matthew Garrett](https://mjg59.dreamwidth.org/32686.html)
->  
+>
      Opportunity: Build the power structures you want
-      Fail: Diversity and inclusion
+     Fail: Diversity and inclusion
 
 #### Economic movement
 
@@ -65,11 +67,10 @@ Don Marti explains in his blog post ['Why Open Source Matters'](https://blog.zgp
 Take a few minutes in your group, or individually on paper or digital format to answer these questions.
 
 1. According to Richard Stallman, what is the distinction between 'open source' and 'free software' and what was Linus Benedict Torvalds, and Linux's role in triggering these terms?
-3. How is the story of Google Android a story of open source, and not free software?  (according to Stallman)
-4. What is Tim O'Reilly's argument about morality and software licensing?
-5. How did opening the source code enable the success of Firefox in a market dominated by Microsoft?
-6. Think about the 3 internet movements, how do they apply to you and your goals for open source?
-
+2. How is the story of Google Android a story of open source, and not free software?  (according to Stallman)
+3. What is Tim O'Reilly's argument about morality and software licensing?
+4. How did opening the source code enable the success of Firefox in a market dominated by Microsoft?
+5. Think about the 3 internet movements, how do they apply to you and your goals for open source?
 
 ### Credits
 

@@ -1,6 +1,8 @@
 # Open Source Clubs Training Series
 
-These learning modules where created by Mozilla, with community members, and partner organizations for students committed to learning about, contributing to and advocating for open source projects.
+These learning modules were created by Mozilla, with community members and
+partner organizations, for students committed to learning about, contributing
+to, and advocating for open source projects.
 
 #### Contributing
 
@@ -19,7 +21,6 @@ You'll need to install [Jekyll](https://jekyllrb.com/), [Ruby](https://www.ruby-
 #### Participation Guidelines
 
 We abide by the [Mozilla Community Participation Guidelines](https://www.mozilla.org/en-US/about/governance/policies/participation/).
-
 
 #### License
 

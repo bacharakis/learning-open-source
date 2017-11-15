@@ -9,14 +9,14 @@ summary: >-
   This section will explore a variety of concepts, actions and attributes of the open ecosystem.
 prereq: Have read the README
 format: >
-  *   Read and watch videos on this topic, and expore the open as an activity.
+  *   Read and watch videos on this topic, and explore the open as an activity.
 materials: Pencil and paper or a computer-- a way of recording notes.
 ---
 
 * TOC
 {:toc}
 
-**'Open' is not one dimensional, nor is it something you can point to specifically - rather it is a a rich and innovative ecosystem enabled by a variety of actions and attributes.**
+**'Open' is not one dimensional, nor is it something you can point to specifically - rather it is a rich and innovative ecosystem enabled by a variety of actions and attributes.**
 
 Watch this light introduction to open source, using recipe to represent software, licensing and collaboration.
 
@@ -25,6 +25,7 @@ Watch this light introduction to open source, using recipe to represent software
 [![Watch the video](https://img.youtube.com/vi/Tyd0FO0tko8/0.jpg)](https://www.youtube.com/watch?v=Tyd0FO0tko8)
 
 ### Open is a Verb
+
 **Open is truly a decision**, and purposeful **action** - one that invites others in to collaborate, innovate and build together.
 
 **>> Access**
@@ -35,18 +36,17 @@ Open access refers to the practice of **making peer-reviewed scholarly research 
 
 **>> Use**
 
-
 >..if a work is open, then the right of use is assumed. The fact that definitions of openness must explicitly spell out restricted uses makes it clear that if a work is open, **then any and all of the things that it may be possible to do with it are allowed, unless explicitly disallowed**.
 
 Consider your assumptions about use, and what explicit restrictions you have seen in licensed software or content.
 
-
 ### Open is an Adjective
+
 **Open is how we describe *the way we work, and create**.
 
 **>> Transparent**
 
-Working in the open can mean many things, primarily it means 'making your work visible', and how people interact with that work will actually begin your journey of open.  Working more openly is also about making decision-making processes, and governance open for others to co-design.
+Working in the open can mean many things, primarily it means 'making your work visible', and how people interact with that work will actually begin your journey of open.  Working more openly is also about making decision-making processes and governance open for others to co-design.
 
 > The main value of working open is reducing transaction cost, administration, and collaborative friction with smart communities of peers. That's different than over-relying on the casually offered opinions of whoever shows up, or waiting for the crowd to do your work or solve your problems for you." - Matt Thompson [[4]](#how-to-work-open).
 >
@@ -55,14 +55,13 @@ Working in the open can mean many things, primarily it means 'making your work v
 
 **>> Participatory**
 
-Working openly, you might assume, enables project participation - but **engaging diverse perspectives, ways of working and enabling success project -  endeavor requires purposeful engagement**.
+Working openly, you might assume, enables project participation - but **engaging diverse perspectives, ways of working and enabling a successful project -  endeavor requires purposeful engagement**.
 
 > The 2009 "Memorandum on Transparency and Open Government" emphasizes transparency, participation, and collaboration. Much of the emphasis of open government is on transparency, but information about what the government is doing is meaningless without the ability for citizens to then act on that information to exert influence on the government. This, of course, is almost a definition of participatory democracy.[[1]](#50-shades-of-open)
 
 * What ways might a project deter participation even if their work is openly shared?*
 
 ### Open is a Noun
-
 
 **>> Source**
 
@@ -95,7 +94,7 @@ In so doing, Creative Commons became a very **powerful enabler of openness**.  *
 
 *Being an enabler of openness* is another meaning of the term "open," and one that is somewhat more oblique than those that have been discussed so far. "Open" in this sense does not, like open source or open access, refer to a specific type of resource. **Rather, it refers to a set of affordances (Gibson, 2014), either technical or legal, for a specific type of resource, of which a user may make use [[1]](#50-shades-of-open)**.
 
-*How have you seen Creative Commons licenses enabling open work (hint, you can find it in this page :)*
+*How have you seen Creative Commons licenses enabling open work (hint, you can find it in this page :D)*
 
 **>> Working**
 
@@ -105,7 +104,7 @@ Watch Kristie describe how working open, launched an her project's success.
   url="https://www.filepicker.io/api/file/383PaLJiSF68FFgvH5Qb"
   title="A Working Open Example - STEMM Role Models, Kirstie Whitaker" %}
 
- Working open can be described as having:
+Working open can be described as having:
 
 - **participation**. rocket fuel for smart collaboration.
 - **agility**. speed. flexibility. getting stuff done.
@@ -116,11 +115,12 @@ Watch Kristie describe how working open, launched an her project's success.
 *How might you convince someone who feels protective of their idea/and or software project to begin working openly?*
 
 ### Open is Not
+
 ![puter]({{site.baseurl}}/img/computer.jpg)
 
 *Photo via Internet Archive Book Images, no known restrictions.*
 
-Open has also become a buzzword for industry, individuals and corperations looking to exploit (purposely or otherwise) the popularity and uptake of open source software in reason years.  
+Open has also become a buzzword for industry, individuals, and corporations looking to exploit (purposely or otherwise) the popularity and uptake of open source software in recent years.
 
 **>> Exploitation**
 Creating appearances of being open to engage people for free labour, fake consultation or as a way to draw attention to oneself are all ways people exploit 'Open'.
@@ -134,7 +134,8 @@ Creating appearances of being open to engage people for free labour, fake consul
 *How would you recognize exploitation of open?  Can you think of any examples?*
 
 **>> Open Washing**
-[Open Washing](http://openwashing.org/) is a term given to a specific type of exploitation whereby a product or resource is marketed as being 'open', but without evidence that this is entirely true.  
+
+[Open Washing](http://openwashing.org/) is a term given to a specific type of exploitation whereby a product or resource is marketed as being 'open', but without evidence that this is entirely true.
 
 >Openwashing: to spin a product or company as open, although it is not. Derived from 'greenwashing.' [Michelle Thorn](http://michellethorne.cc/2009/03/openwashing/)
 
@@ -143,6 +144,7 @@ Creating appearances of being open to engage people for free labour, fake consul
 ### {{ site.assignment }} - Explore the Open
 
 Navigate the web looking for examples of:
+
 * People working openly
 * The use of Creative Commons licenses
 * Open Source code
