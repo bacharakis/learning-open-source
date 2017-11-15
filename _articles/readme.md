@@ -21,10 +21,10 @@ TODO: LINK & Add full names
 - [Birgit Penzenstadler]()
 - [Nate Angell](https://twitter.com/xolotl)
 - [Carol Willing](https://twitter.com/WillingCarol)
-- [Clint LaLonde]()
-- [Don Mardi()
+- [Clint LaLonde](https://twitter.com/clintlalonde)
+- [Don Marti](https://twitter.com/dmarti)
 - [Greg Hislop]()
-- [Greg McVerry]()
+- [Greg McVerry](https://twitter.com/jgmac1106)
 - Gail from TOS(TODO: last name?)
 - [Heidi Ellis]()
 
