@@ -18,15 +18,16 @@ We abide by the [Mozilla Community Participation Guidelines](https://www.mozilla
 
 TODO: LINK & Add full names
 
-- [Birgit Penzenstadler]()
+- [Birgit Penzenstadler](https://twitter.com/twinkleflip)
 - [Nate Angell](https://twitter.com/xolotl)
-- [Carol Willing](https://twitter.com/WillingCarol)
+- [Heidi Ellis](http://teachingopensource.org/user/heidi/)
+- [Greg Hislop](http://teachingopensource.org/user/hislop/)
 - [Clint LaLonde](https://twitter.com/clintlalonde)
+- [Chad Sansing](https://twitter.com/chadsansing)
 - [Don Marti](https://twitter.com/dmarti)
-- [Greg Hislop]()
 - [Greg McVerry](https://twitter.com/jgmac1106)
 - Gail from TOS(TODO: last name?)
-- [Heidi Ellis]()
+- [Carol Willing](https://twitter.com/WillingCarol)
 
 
 # License
