@@ -20,6 +20,7 @@ TODO: LINK & Add full names
 
 - [Birgit Penzenstadler]()
 - [Nate Angell](https://twitter.com/xolotl)
+- [Carol Willing](https://twitter.com/WillingCarol)
 - [Clint LaLonde]()
 - [Don Mardi()
 - [Greg Hislop]()
