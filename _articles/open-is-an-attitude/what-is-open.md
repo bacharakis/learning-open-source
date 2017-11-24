@@ -24,6 +24,7 @@ Watch this light introduction to open source, using recipe to represent software
 
 [![Watch the video](https://img.youtube.com/vi/Tyd0FO0tko8/0.jpg)](https://www.youtube.com/watch?v=Tyd0FO0tko8)
 
+
 ### Open is a Verb
 
 **Open is truly a decision**, and purposeful **action** - one that invites others in to collaborate, innovate and build together.
@@ -66,6 +67,10 @@ Working openly, you might assume, enables project participation - but **engaging
 **>> Source**
 
 The term "open source" refers to something people can modify and share because its design is publicly accessible.[5](#what-is-opensource)
+
+#### {{ site.video }} Watch 'What is Open Source'
+
+[![Watch the video](https://img.youtube.com/vi/7c0IrsDsNaw/0.jpg)](https://www.youtube.com/watch?v=7c0IrsDsNaw&t=3s)
 
 **>>Speech, Beer, Puppies**
 

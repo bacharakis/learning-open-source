@@ -25,6 +25,7 @@ The existence of tasks in an open repository is not itself an invitation to get 
 Meta, Parent, or ‘Feature Tasks’ are a great way to track the overall progress of an initiative or project goals per milestone. Unless identified as being this type of task though it can lead to a frustrating journey for someone interested in participation. Here is an [example of a Meta Task](https://github.com/mozilla/community-development/blob/master/ISSUE_TEMPLATE.md).
 
 #### Good First Task
+**Note: In Github Tasks are called Issues, but they mean the same thing : an action, or parcel of work to be completed.**
 
 Good first bugs should be the equivalent of 'hello world' for your project. That means the steps required to complete that task are clearly documented, require entry-level skill for your project technology and ideally - in no way on a critical path for a release.  Some examples of good first bugs are:
 

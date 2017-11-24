@@ -42,13 +42,14 @@ For reasons of gender-identity, socio-economic status, age, race, family-status,
 
 Like any gathering of humans, be it family, a group of colleagues, sports teams - interacting can be challenging at times. A set of unhealthy 'norms' can be established accidentally when we neglect to be explicit about how we want our communities to interact and this can lead toxic communities.
 
-**A Code of Conduct is an agreement outlining expectations for community participation**, including what is acceptable, unacceptable and behaviors all community members should aspire to - with a clear reporting process for violations.
+**A Code of Conduct, sometimes called Participation Guidelines, is an agreement outlining ways we should interact and treat each other**, including what is acceptable, unacceptable and behaviors all community members should aspire to - with a clear reporting process for violations.  Codes of Conduct are also sometimes called Participation Guidelines.
 
 Here are some examples of open source community Codes of Conduct:
 
 * [Kubernetes](https://github.com/cncf/foundation/blob/master/code-of-conduct.md)
 * [GoLang](https://golang.org/conduct)
 * [Rust](https://www.rust-lang.org/en-US/conduct.html)
+* [Mozilla Participation Guidelines](https://www.mozilla.org/en-US/about/governance/policies/participation/)
 
 **Without enforcement a Code of Conduct means nothing**.  Without enforcement, and modeling of healthy behavior by community leaders -  what we see is that more assertive individuals, and that those with perceived clout tend to dominate discussion. It is your role as a community member to not only abide by CoC, but to look out for others as well.  A healthy community is everyone's responsibility.
 
